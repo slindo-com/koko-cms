@@ -1,6 +1,6 @@
 {
   "name": "koko-cms",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The Koko CMS.",
   "main": "index.js",
   "scripts": {
@@ -16,9 +16,13 @@
   ],
   "author": "Benjamin Kowalski <ben@slindo.com>",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "js-yaml": "^4.1.0",
     "mkpath": "^1.0.0",
-    "node-watch": "^0.7.1"
+    "node-watch": "^0.7.1",
+    "express": "^4.17.1",
+    "mustache": "^4.2.0",
+    "node-sass": "^6.0.0",
+    "sass": "^1.32.13"
   }
 }
