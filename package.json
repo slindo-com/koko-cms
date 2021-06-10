@@ -1,0 +1,24 @@
+{
+  "name": "koko-cms",
+  "version": "0.0.1",
+  "description": "The Koko CMS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/slindo-com/koko-cms",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/slindo-com/koko-cms"
+  },
+  "keywords": [
+    "koko-cms"
+  ],
+  "author": "Benjamin Kowalski <ben@slindo.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "js-yaml": "^4.1.0",
+    "mkpath": "^1.0.0",
+    "node-watch": "^0.7.1"
+  }
+}
